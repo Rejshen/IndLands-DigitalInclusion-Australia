@@ -1,8 +1,8 @@
 
 #  IndLands – Digital Information System for Rural & Indigenous Farming Communities  
-**Queensland University of Technology (QUT) | Group 22 – IAB204: Business Analysis Project**  
+**Queensland University of Technology (QUT) | Group 22 – IAB204: Business Analysis Project  | 87.76/100 Points**  
 *Developed under Queensland Government Case Brief – AUD 20M Project Budget*
-**87.76/100 Points**
+
 
 ---
 
